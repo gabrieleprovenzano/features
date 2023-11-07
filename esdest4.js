@@ -2,9 +2,9 @@ const person = {
     id: 1,
     firstName: 'Mario',
     lastName: 'Rossi',
-    age: 25
+    old: 25
   };
   
-  const { id, firstName, lastName, age } = person;
-  console.log(id, firstName, lastName, age);
+  const { id, firstName, lastName, old } = person;
+  console.log(id, firstName, lastName, old);
   
